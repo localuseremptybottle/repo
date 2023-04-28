@@ -4,3 +4,5 @@ def dziennik(klasa='1c',**kwargs):
         print(nazwisko)
     print(kwargs.get('Kowalski'))
 dziennik(Kowalski='1',Nowak = '2',Witkacy = '3')
+
+public void google
