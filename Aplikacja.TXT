@@ -5,4 +5,8 @@ def dziennik(klasa='1c',**kwargs):
     print(kwargs.get('Kowalski'))
 dziennik(Kowalski='1',Nowak = '2',Witkacy = '3')
 
+
 public void google
+=======
+Logowanie Microsoft (121231)
+
