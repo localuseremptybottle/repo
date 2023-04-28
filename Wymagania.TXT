@@ -4,3 +4,7 @@ lub sprzętu niezbędne do uruchomienia danego programu.
 Najczęściej dotyczą minimalnej prędkości procesora, 
 minimalnej wielkości pamięci RAM, pojemności dysku twardego 
 oraz wersji systemu operacyjnego.
+
+podpisy elektroniczne google
+
+podpisy elektroniczne Microsoft
