@@ -1,0 +1,15 @@
+class LocatorsBlogFlow:
+    MainPageBlogButton = '//*[@id="menu-item-163"]/a'
+    BlogPage_url = 'https://skleptest.pl/tag/all/'
+    BlogPageSearchbarinput = '//*[@id="main"]/section/div/form/label/input'
+    BlogPageSearchbarbutton = '//*[@id="main"]/section/div/form/input'
+    BlogPageResultPostTitleText ='//*[@id="post-105"]/header/div/div[2]/h2'
+    BlogPageRecentPosts = '//*[@id="recent-posts-2"]/ul/li[1]/a'
+
+    BlogPagePostReplySectionCommentInput ='//*[@id="comment"]'
+    BlogPagePostReplySectionNameInput = '//*[@id="author"]'
+    BlogPagePostReplySectionEmailInput = '//*[@id="email"]'
+    BlogPagePostReplySectionWebsiteInput = '//*[@id="url"]'
+    BlogPagePostReplySectionSaveFilledDataCheckbox='//*[@id="wp-comment-cookies-consent"]'
+    BlogPagePostCommentButton='//*[@id="submit"]'
+    BlogPagePostAwaitingComunicat ='//*[contains(text(),"Your comment is awaiting moderation.")]'
